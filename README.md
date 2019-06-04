@@ -2,7 +2,7 @@
 
 These are notebooks for reproducing our paper "Learning
 Perceptually-Aligned Representations via Adversarial Robustness"
-([preprint](http://gradsci.org/paper.pdf),
+([preprint](https://arxiv.org/abs/1906.00945),
 [blog](http://gradsci.org/robust_reps)). 
 
 ![](headline.jpg)
@@ -24,7 +24,7 @@ Steps to run the notebooks (for now, requires CUDA):
 @inproceedings{engstrom2019learning,
     title={Learning Perceptually-Aligned Representations via Adversarial Robustness},
     author={Logan Engstrom and Andrew Ilyas and Shibani Santurkar and Dimitris Tsipras and Brandon Tran and Aleksander Madry},
-    booktitle={Preprint},
+    booktitle={ArXiv preprint arXiv:1906.00945},
     year={2019}
 }
 ```
