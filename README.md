@@ -16,7 +16,7 @@ Steps to run the notebooks (for now, requires CUDA):
   checkpoints there
 - Install all the required packages with `pip install -r requirements.txt`
 - Edit `user_constants.py` to point to PyTorch-formatted versions of the `CIFAR` and `ImageNet` datasets
-- Start a jupyter notebook server: `PYTHONPATH=robustness_lib/ jupyter notebook . --ip 0.0.0.0`
+- Start a jupyter notebook server: `jupyter notebook . --ip 0.0.0.0`
 
 ## Citation
 
