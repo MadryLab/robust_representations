@@ -3,14 +3,14 @@
 These are notebooks for reproducing our paper "Learning
 Perceptually-Aligned Representations via Adversarial Robustness"
 ([preprint](https://arxiv.org/abs/1906.00945),
-[blog](http://gradsci.org/robust_reps)). 
+[blog](http://gradsci.org/robust_reps)). Based on the [robustness](https://github.com/MadryLab/robustness) python library.
 
 ![](headline.jpg)
 
 ## Running the notebooks
 
 Steps to run the notebooks (for now, requires CUDA):
-- Clone this repository with `--recurse-submodules` to include submodules (`--recursive` pre-Git 2.13)
+- Clone this repository
 - Download our models from S3: [CIFAR-10](http://andrewilyas.com/CIFAR.pt), [Restricted ImageNet](http://andrewilyas.com/RestrictedImageNet.pt)
 - Make a `models` folder in the main repository folder, and save the
   checkpoints there
