@@ -1,3 +1,0 @@
-[submodule "robustness_lib"]
-	path = robustness_lib
-	url = git@github.com:MadryLab/robustness_lib.git
