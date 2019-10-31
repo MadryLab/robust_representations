@@ -9,3 +9,5 @@ dill
 tensorboardX
 tables
 tqdm
+seaborn
+jupyter
