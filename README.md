@@ -11,7 +11,7 @@ Perceptually-Aligned Representations via Adversarial Robustness"
 
 Steps to run the notebooks (for now, requires CUDA):
 - Clone this repository
-- Download our models from S3: [CIFAR-10](http://andrewilyas.com/CIFAR.pt), [Restricted ImageNet](http://andrewilyas.com/RestrictedImageNet.pt)
+- Download our models from S3: [CIFAR-10](http://andrewilyas.com/CIFAR.pt), [Restricted ImageNet](http://andrewilyas.com/RestrictedImageNet.pt) ([standard training](https://robustmodels.s3.amazonaws.com/RestrictedImageNetNat.pt) for comparison)
 - Make a `models` folder in the main repository folder, and save the
   checkpoints there
 - Install all the required packages with `pip install -r requirements.txt`
